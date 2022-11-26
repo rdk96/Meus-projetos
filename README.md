@@ -1,2 +1,1 @@
-# ppp
-legal
+Esse repositório contém meus principais projetos desenvolvidos ao longo de toda a minha vida acadêmica, além de alguns tutoriais de mnha autoria para facilitar a utilização do software comercial Ansys. Desenho técnico, concepção e design de produto, análise estrutural, análise de escoamento em perfis 2D e análise mecânica de estruturas aeronáuticas são alguns dos projetos que se encontram aqui
